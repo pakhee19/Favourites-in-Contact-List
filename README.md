@@ -4,7 +4,7 @@ DAA Assignment
 Section- A
 Roll No. 10
 
-##Question:
+## Question:
 Give an application and its implementation to demonstrate the implementation of data structure for handling the "Favorite" contact list.
 
 
@@ -15,9 +15,10 @@ C : Show favourites
 D : Delect contacts
 
 The Java program on compiling gives the output as follows:
-#OUTPUT:
+# OUTPUT:
 -----------------------------------
-      Contacts
+
+##         Contacts
 A : Add Contact
 B : Show Contacts
 C : Show favourites
