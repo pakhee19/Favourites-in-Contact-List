@@ -7,7 +7,7 @@ Roll No. 10  <br>
 ## Question: <br>
 Give an application and its implementation to demonstrate the implementation of data structure for handling the "Favorite" contact list. <br>
 
- Approach: <br>
+## Approach: <br>
 We make use of the priority queue data structure by using the following functionalities-  <br>
 Add Contact  <br>
 Show Contacts  <br>
